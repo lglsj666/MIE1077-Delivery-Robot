@@ -46,8 +46,8 @@ The software consists of three main modules:
 - Extend multi-object manipulation beyond sprite cans.  
 - Integrate real voice command input.
 
-## Demo Video
-🚧 *Coming soon – project demonstration video will be added here.* 🚧
+## Demo Slides - Video Included
+[Deliver Master Demo](https://docs.google.com/presentation/d/1bCcY7AFAmbktMcgvld7WufuGaBtqRXFj/edit?usp=sharing&ouid=114492464970792931615&rtpof=true&sd=true)
 
 ---
 
