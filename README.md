@@ -1,8 +1,8 @@
 # Deliver Master: Indoor Restaurant Delivery Robot
 
 ## Overview
-This project, developed as part of **MIE1077**, proposes an autonomous indoor restaurant delivery robot designed to address labour shortages and improve service quality in Canadian urban restaurants.  
-The system integrates natural language understanding, action planning, object detection, navigation, and precise pick-and-place operations within a simulated 3D restaurant environment.
+This project, developed as part of UofT course **MIE1077**, proposes an autonomous indoor restaurant delivery robot designed to address labour shortages and improve service quality in Canadian urban restaurants.  
+The system integrates natural language understanding, action planning, object detection, navigation, and precise pick-and-place operations within a simulated 3D restaurant environment. This project is based on [pal-tiago robot](https://docs.google.com/presentation/d/1bCcY7AFAmbktMcgvld7WufuGaBtqRXFj/edit?usp=sharing&ouid=114492464970792931615&rtpof=true&sd=true), and all the packages and files in this repository are developed by RUIWU LIU independently apart from pal-tiago robot.
 
 ## Problem Statement
 Growing restaurant demand in cities like Toronto and Vancouver requires efficient service solutions despite staffing constraints.  
