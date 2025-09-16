@@ -53,6 +53,5 @@ The software consists of three main modules:
 
 ### Authors
 - **Ruiwu Liu**  
-- **Zhijing Ouyang**
 
 *Date: July 25, 2025*
