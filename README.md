@@ -49,6 +49,14 @@ The software consists of three main modules:
 ## Demo Slides - Video Included
 [Deliver Master Demo](https://docs.google.com/presentation/d/1bCcY7AFAmbktMcgvld7WufuGaBtqRXFj/edit?usp=sharing&ouid=114492464970792931615&rtpof=true&sd=true)
 
+## To Use This Project
+- Pull the code from [tiago-simulation](https://github.com/pal-robotics/tiago_simulation) and set up the environment according to its instructions, but stop before buiding the project. Please ensure that you are using ros2 humble and ubuntu 22.04. Otherwise, unexpected errors may occur.
+- Move the folder 'input_module', 'motion_preparation', 'navigation_module', 'RestaurantModel' into src, as these folders are important packages used for controlling the robot that I wrote.
+- Move the map files to '\src\tiago_simulation\tiago_multi\config'.
+- Move the 'RestaurantModel' folder to '\src\pal_gazebo_worlds\models'
+- Move the 'restaurant.world' file to '\src\pal_gazebo_worlds\worlds'
+- Build the project with command specified in [tiago-simulation](https://github.com/pal-robotics/tiago_simulation).
+- Launch the simulation with 'ros2 launch tiago_gazebo tiago_gazebo.launch.py navigation:=True moveit:=True is_public_sim:=True world_name:=restaurant'
 ---
 
 ### Authors
