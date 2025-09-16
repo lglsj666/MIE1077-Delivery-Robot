@@ -60,6 +60,7 @@ The software consists of three main modules:
 ```bash
 ros2 launch tiago_gazebo tiago_gazebo.launch.py navigation:=True moveit:=True is_public_sim:=True world_name:=restaurant
 ```
+- Please note that the reinforcement learning code and AI model automatic control code is not included. If you want to deploy your own models, please add your own packages.
 ---
 
 ### Authors
