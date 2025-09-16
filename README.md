@@ -56,7 +56,7 @@ The software consists of three main modules:
 - Move the 'RestaurantModel' folder to '\src\pal_gazebo_worlds\models'
 - Move the 'restaurant.world' file to '\src\pal_gazebo_worlds\worlds'
 - Build the project with command specified in [tiago-simulation](https://github.com/pal-robotics/tiago_simulation).
-- Launch the simulation with 'ros2 launch tiago_gazebo tiago_gazebo.launch.py navigation:=True moveit:=True is_public_sim:=True world_name:=restaurant'
+- Launch the simulation with ```ros2 launch tiago_gazebo tiago_gazebo.launch.py navigation:=True moveit:=True is_public_sim:=True world_name:=restaurant```
 ---
 
 ### Authors
